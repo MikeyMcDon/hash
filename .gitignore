@@ -1,0 +1,2 @@
+#.gitignore
+mysite/settings/local.py
